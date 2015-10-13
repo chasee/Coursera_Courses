@@ -1,0 +1,140 @@
+Getting and Cleaning Data
+	Week 1: 67:09
+		M: 22:19
+			{Watched + Notes} Obtaining Data Motivation
+			{Watched + Notes} Raw and Processed Data
+			{Watched + Notes} Components of Tidy Data
+			{Watched + Notes} Downloading Files
+		W: 37:50
+			Reading Local Files
+			Reading Excel Files
+			Reading XML
+			Reading JSON
+			The data.table Package
+	Week 2: 40:57
+		M: 21:29
+			Reading from MySQL
+			Reading from HDF5
+		W: 19:28
+			Reading from The Web
+			Reading from APIs
+			Reading from Other Sources
+	Week 3: 60:05
+		M: 29:00
+			Subsetting and Sorting
+			Summarizing Data
+			Creating New Variables
+		W: 31:05
+			Reshaping Data
+			Managing Data Frames with dplyr - Introduction
+			Managing Data Frames with dplyr - Basic Tools
+			Merging Data
+	Week 4: 33:37
+		M: 24:04
+			Editing Text Variables
+			Regular Expressions I
+			Regular Expressions II
+		W: 09:33
+			Working with Dates
+			Data Resources
+
+Reproducible Research
+	Week 1: 67:35
+		T: 26:20
+			Introduction
+			What is Reproducible Research About?
+			Reproducible Research: Concepts and Ideas (part 1)
+			Reproducible Research: Concepts and Ideas (part 2)
+			Reproducible Research: Concepts and Ideas (part 3)
+		H: 41:15
+			Structure of a Data Analysis (part 1)
+			Structure of a Data Analysis (part 2)
+			Organizing Your Analysis
+	Week 2: 58:29
+		T: 28:13
+			Coding Standards in R
+			Markdown
+			R Markdown
+			R Markdown Demonstration
+		H: 30:16
+			knitr (part 1)
+			knitr (part 2)
+			knitr (part 3)
+			knitr (part 4)
+			Introduction to Peer Assessment 1
+	Week 3: 60:56
+		T: 35:51
+			Communicating Results
+			RPubs
+			Reproducible Research Checklist (part 1)
+			Reproducible Research Checklist (part 2)
+			Reproducible Research Checklist (part 3)
+		H: 25:05
+			Evidence-based Data Analysis (part 1)
+			Evidence-based Data Analysis (part 2)
+			Evidence-based Data Analysis (part 3)
+			Evidence-based Data Analysis (part 4)
+			Evidence-based Data Analysis (part 5)
+			Introduction to Peer Assessment 2
+	Week 4: 58:37
+		T: 25:28
+			Caching Computations
+			Case Study: Air Pollution
+		H: 33:09
+			Case Study: High Throughput Biology
+			Commentaries on Data Analysis
+	
+Statistical Inference
+	Week 1: 64:00
+		T: 34:29
+			Introduction
+			Brief note on new materials
+			Introduction to Probability
+			Probability Mass Functions
+			Probability Density Functions
+		H: 25:31
+			Conditional Probability
+			Baye's Rule
+			Independence
+			Expected Values
+			Expected Values, Simple Examples
+			Expected Values for PDFs
+	Week 2: 75:55
+		T: 36:46
+			Introduction to Variability
+			Variance Simulation Examples
+			Standard Error of the Mean
+			Variance Data Example
+			Binomial Distribution
+			Normal Distribution
+		H: 39:09
+			Poisson
+			Asymptotics and LLN
+			Asymptotics and the CLT
+			Asymptotics and Confidence Intervals
+	Week 3: 79:34
+		T: 40:52
+			T Confidence Intervals
+			T Confidence Intervals Example
+			Independent Group T Intervals
+			A Note on Unequal Variance
+			Hypothesis Testing
+			Example of Choosing a Rejection Region
+		H: 38:42
+			T Tests
+			Two Group Testing
+			P Values
+			P values Further Examples
+	Week 4: 88:49
+		T: 56:06
+			Power
+			Calculating Power
+			Notes on Power
+			T Test Power
+			Multiple Comparisons
+		H: 32:43
+			Bootstrapping
+			Bootstrapping Example
+			Notes on the Bootstrap
+			Permutation Tests
+			Kind of silly cautionary note about inferences
