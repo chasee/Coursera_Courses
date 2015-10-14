@@ -1,0 +1,75 @@
+---
+title: course-### Quiz \##
+output: html_document
+---
+***
+
+### Question 1
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 2
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 3
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 4
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 5
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 6
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 7
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 8
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 9
+lorem ipsum
+
+* lorem ipsum
+
+***
+
+### Question 10
+lorem ipsum
+
+* lorem ipsum
+
+***
